@@ -1,0 +1,2 @@
+# Space-new
+Ok, giờ mình hướng dẫn điền từng mục một nhé. Bạn chỉ cần làm y như dưới đây:   ---  ✅ 1. Tên kho lưu trữ (Repository name)  Bạn hãy nhập:  👉 gdd-game  (Tên ngắn – dễ nhớ – sau này Drive &amp; GitHub của bạn sẽ gọn gàng hơn.)   ---  ✅ 2. Sự miêu tả (Description)  Bạn nhập:  👉 Game design document và tài nguyên cho dự án game 
